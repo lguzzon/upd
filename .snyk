@@ -5,6 +5,6 @@ ignore: {}
 patch:
   'npm:tunnel-agent:20170305':
     - npm-check-updates > npm > request > tunnel-agent:
-        patched: '2018-06-27T22:07:45.033Z'
+        patched: '2018-06-28T23:16:19.306Z'
     - npm-check-updates > npmi > npm > request > tunnel-agent:
-        patched: '2018-06-27T22:07:45.033Z'
+        patched: '2018-06-28T23:16:19.306Z'
